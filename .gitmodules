@@ -1,0 +1,6 @@
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "srt"]
+	path = srt
+	url = https://github.com/Haivision/srt.git
